@@ -1,0 +1,6 @@
+**/*.md
+**/*.svg
+**/*.ejs
+/dist
+/node_modules
+/test_old
